@@ -1,0 +1,72 @@
+Brute Force Detection Dashboard Report
+============================================================
+
+1. Executive Summary
+------------------------------------------------------------
+Total authentication failures: 300
+Unique remote hosts: 32
+Unique targeted users: 4
+Suspicious hosts (threshold >= 3): 30
+Time range start: 2025-06-14 15:16:01
+Time range end: 2025-07-10 16:02:09
+
+2. Top Remote Hosts by Failed Attempts
+------------------------------------------------------------
+                                   rhost  failed_attempts
+            n219076184117.netvigator.com               23
+                         150.183.249.110               22
+                           60.30.224.116               20
+                          195.129.24.210               15
+                             218.188.2.4               14
+                          220.117.241.87               13
+             h64-187-1-131.gtconnect.net               13
+adsl-70-242-75-179.dsl.ksc2mo.swbell.net               10
+        220-135-151-1.hinet-ip.hinet.net               10
+               p15105218.pureserver.info               10
+
+3. Top Targeted Usernames
+------------------------------------------------------------
+   user  failed_attempts
+   root              177
+unknown              102
+  guest               17
+   test                4
+
+4. Suspicious Hosts
+------------------------------------------------------------
+                                   rhost  failed_attempts
+            n219076184117.netvigator.com               23
+                         150.183.249.110               22
+                           60.30.224.116               20
+                          195.129.24.210               15
+                             218.188.2.4               14
+                          220.117.241.87               13
+             h64-187-1-131.gtconnect.net               13
+adsl-70-242-75-179.dsl.ksc2mo.swbell.net               10
+        220-135-151-1.hinet-ip.hinet.net               10
+               p15105218.pureserver.info               10
+                              zummit.com               10
+                061092085098.ctinets.com               10
+                           65.166.159.14               10
+                         csnsu.nsuok.edu               10
+   ip-216-69-169-168.ip.secureserver.net               10
+                         209.152.168.249               10
+            62-192-102-94.dsl.easynet.nl               10
+                    massive.merukuru.org               10
+                             218.22.3.51                9
+                            61.53.154.93                9
+                   biblioteka.wsi.edu.pl                8
+                           217.60.212.66                6
+                         211.115.206.155                5
+         d211-116-254-214.rev.krline.net                5
+                         210.229.150.228                5
+                           218.16.122.48                5
+           troi.bluesky-technologies.com                5
+                  c9063558.virtua.com.br                4
+                            212.0.132.20                4
+                            210.76.59.29                3
+
+5. Analyst Notes
+------------------------------------------------------------
+The most active remote host was n219076184117.netvigator.com with 23 failed attempts.
+Repeated authentication failures from the same host may indicate brute-force or unauthorized access attempts.

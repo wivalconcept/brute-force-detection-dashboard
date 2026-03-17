@@ -1,0 +1,192 @@
+{
+    "summary": {
+        "total_failures": 300,
+        "unique_remote_hosts": 32,
+        "unique_targeted_users": 4,
+        "suspicious_hosts_count": 30,
+        "time_range_start": "2025-06-14 15:16:01",
+        "time_range_end": "2025-07-10 16:02:09"
+    },
+    "top_remote_hosts": [
+        {
+            "rhost": "n219076184117.netvigator.com",
+            "failed_attempts": 23
+        },
+        {
+            "rhost": "150.183.249.110",
+            "failed_attempts": 22
+        },
+        {
+            "rhost": "60.30.224.116",
+            "failed_attempts": 20
+        },
+        {
+            "rhost": "195.129.24.210",
+            "failed_attempts": 15
+        },
+        {
+            "rhost": "218.188.2.4",
+            "failed_attempts": 14
+        },
+        {
+            "rhost": "220.117.241.87",
+            "failed_attempts": 13
+        },
+        {
+            "rhost": "h64-187-1-131.gtconnect.net",
+            "failed_attempts": 13
+        },
+        {
+            "rhost": "adsl-70-242-75-179.dsl.ksc2mo.swbell.net",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "220-135-151-1.hinet-ip.hinet.net",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "p15105218.pureserver.info",
+            "failed_attempts": 10
+        }
+    ],
+    "top_targeted_users": [
+        {
+            "user": "root",
+            "failed_attempts": 177
+        },
+        {
+            "user": "unknown",
+            "failed_attempts": 102
+        },
+        {
+            "user": "guest",
+            "failed_attempts": 17
+        },
+        {
+            "user": "test",
+            "failed_attempts": 4
+        }
+    ],
+    "suspicious_hosts": [
+        {
+            "rhost": "n219076184117.netvigator.com",
+            "failed_attempts": 23
+        },
+        {
+            "rhost": "150.183.249.110",
+            "failed_attempts": 22
+        },
+        {
+            "rhost": "60.30.224.116",
+            "failed_attempts": 20
+        },
+        {
+            "rhost": "195.129.24.210",
+            "failed_attempts": 15
+        },
+        {
+            "rhost": "218.188.2.4",
+            "failed_attempts": 14
+        },
+        {
+            "rhost": "220.117.241.87",
+            "failed_attempts": 13
+        },
+        {
+            "rhost": "h64-187-1-131.gtconnect.net",
+            "failed_attempts": 13
+        },
+        {
+            "rhost": "adsl-70-242-75-179.dsl.ksc2mo.swbell.net",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "220-135-151-1.hinet-ip.hinet.net",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "p15105218.pureserver.info",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "zummit.com",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "061092085098.ctinets.com",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "65.166.159.14",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "csnsu.nsuok.edu",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "ip-216-69-169-168.ip.secureserver.net",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "209.152.168.249",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "62-192-102-94.dsl.easynet.nl",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "massive.merukuru.org",
+            "failed_attempts": 10
+        },
+        {
+            "rhost": "218.22.3.51",
+            "failed_attempts": 9
+        },
+        {
+            "rhost": "61.53.154.93",
+            "failed_attempts": 9
+        },
+        {
+            "rhost": "biblioteka.wsi.edu.pl",
+            "failed_attempts": 8
+        },
+        {
+            "rhost": "217.60.212.66",
+            "failed_attempts": 6
+        },
+        {
+            "rhost": "211.115.206.155",
+            "failed_attempts": 5
+        },
+        {
+            "rhost": "d211-116-254-214.rev.krline.net",
+            "failed_attempts": 5
+        },
+        {
+            "rhost": "210.229.150.228",
+            "failed_attempts": 5
+        },
+        {
+            "rhost": "218.16.122.48",
+            "failed_attempts": 5
+        },
+        {
+            "rhost": "troi.bluesky-technologies.com",
+            "failed_attempts": 5
+        },
+        {
+            "rhost": "c9063558.virtua.com.br",
+            "failed_attempts": 4
+        },
+        {
+            "rhost": "212.0.132.20",
+            "failed_attempts": 4
+        },
+        {
+            "rhost": "210.76.59.29",
+            "failed_attempts": 3
+        }
+    ]
+}
