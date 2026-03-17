@@ -117,7 +117,7 @@ timeline of login attempts
 ### Attack Timeline
 ![Attack Timeline](outputs/attack_timeline.png)
 
-Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates:
 
