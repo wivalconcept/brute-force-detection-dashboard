@@ -144,15 +144,6 @@ Real-time log monitoring
 Alerting system for suspicious activity
 
 ## Author
-
-Cybersecurity professional transitioning from Data Analytics with a focus on:
-
-Security Operations (SOC)
-
-Threat Detection
-
-Log Analysis
-
-Python-based security automation
+Valentine Chukwunwike Cybersecurity Analyst | SOC | Threat Detection | Log Analysis
 
 
